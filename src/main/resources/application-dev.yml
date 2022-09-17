@@ -1,0 +1,6 @@
+#application-dev.yaml
+spring:
+#  profiles:
+#    include: dev-common
+  application:
+    name: name-2

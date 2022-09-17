@@ -1,0 +1,4 @@
+#application-dev.yaml
+spring:
+  application:
+    name: name-3
